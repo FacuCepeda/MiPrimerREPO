@@ -1,5 +1,5 @@
 # Mi Primer REPO
 ´´js
-cont hello = ´wpord´
+cont hello = ´word´
 ´´´´
 este cambio esta en desarrollo
